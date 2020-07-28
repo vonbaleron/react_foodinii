@@ -1,0 +1,18 @@
+.wrapper {
+    list-style: none;
+    padding: 50px 30px;
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    flex-shrink: 0;
+    margin-right: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.name {
+    font-size: 1000;
+}
